@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 96b9038555c5c4fa581bb7086f7b264d
+timeCreated: 1512853336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Princeanimation_stand_jump+land_0
+    21300002: Princeanimation_stand_jump+land_1
+    21300004: Princeanimation_stand_jump+land_2
+    21300006: Princeanimation_stand_jump+land_3
+    21300008: Princeanimation_stand_jump+land_4
+    21300010: Princeanimation_stand_jump+land_5
+    21300012: Princeanimation_stand_jump+land_6
+    21300014: Princeanimation_stand_jump+land_7
+    21300016: Princeanimation_stand_jump+land_8
+    21300018: Princeanimation_stand_jump+land_9
+    21300020: Princeanimation_stand_jump+land_10
+    21300022: Princeanimation_stand_jump+land_11
+    21300024: Princeanimation_stand_jump+land_12
+    21300026: Princeanimation_stand_jump+land_13
+    21300028: Princeanimation_stand_jump+land_14
+    21300030: Princeanimation_stand_jump+land_15
+    21300032: Princeanimation_stand_jump+land_16
+    21300034: Princeanimation_stand_jump+land_17
+    21300036: Princeanimation_stand_jump+land_18
+    21300038: Princeanimation_stand_jump+land_19
+    21300040: Princeanimation_stand_jump+land_20
+    21300042: Princeanimation_stand_jump+land_21
+    21300044: Princeanimation_stand_jump+land_22
+    21300046: Princeanimation_stand_jump+land_23
+    21300048: Princeanimation_stand_jump+land_24
+    21300050: Princeanimation_stand_jump+land_25
+    21300052: Princeanimation_stand_jump+land_26
+    21300054: Princeanimation_stand_jump+land_27
+    21300056: Princeanimation_stand_jump+land_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_0
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3104
+        width: 890
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_1
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3052
+        width: 1259
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_2
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 3052
+        width: 1363
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_3
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 3139
+        width: 1325
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_4
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 3139
+        width: 1221
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_5
+      rect:
+        serializedVersion: 2
+        x: 7598
+        y: 3127
+        width: 1318
+        height: 1127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_6
+      rect:
+        serializedVersion: 2
+        x: 9263
+        y: 3809
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_7
+      rect:
+        serializedVersion: 2
+        x: 9287
+        y: 3127
+        width: 1116
+        height: 1258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_8
+      rect:
+        serializedVersion: 2
+        x: 10617
+        y: 3086
+        width: 1229
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_9
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 3515
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_10
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 3093
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_11
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3041
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1519
+        width: 1255
+        height: 1324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_13
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1461
+        width: 1203
+        height: 1370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_14
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 2250
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_15
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1531
+        width: 1289
+        height: 1358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_16
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 2260
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_17
+      rect:
+        serializedVersion: 2
+        x: 4983
+        y: 1519
+        width: 1238
+        height: 1368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_18
+      rect:
+        serializedVersion: 2
+        x: 6354
+        y: 1530
+        width: 1275
+        height: 1284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_19
+      rect:
+        serializedVersion: 2
+        x: 7754
+        y: 1600
+        width: 1405
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_20
+      rect:
+        serializedVersion: 2
+        x: 6331
+        y: 2224
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_21
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2207
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 703
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_23
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 1205
+        height: 1327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_24
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 0
+        width: 1260
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_25
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 61
+        width: 1363
+        height: 1353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_26
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 22
+        width: 1289
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_27
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 52
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Princeanimation_stand_jump+land_28
+      rect:
+        serializedVersion: 2
+        x: 5441
+        y: 15
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
