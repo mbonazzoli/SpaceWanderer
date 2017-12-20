@@ -53,8 +53,9 @@ A)  We believe the game itself is playable because its simple premise will entic
 
 ## Conclusion
 
-Happy exploring! The developers hope you have a good time. Please contact us at dhan@macalester.edu with any questions!
+Happy exploring! The developers hope you have a good time. Please contact us at mbonazzoli@macalester.edu with any questions!
 
 The Development Team 
+(Matthew Bonazzoli, Andy Han, Haimeng Zhang, Garret Goodstein)
 
 
